@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VIV6369
+- 👋 Hi, I’m Vadims Ivanovs
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python/R/SQL
 - 💞️ I’m looking to collaborate on Python  
