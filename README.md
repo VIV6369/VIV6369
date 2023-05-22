@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vadims Ivanovs
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python/R/SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 vadimsivanovs@proton.me
 
